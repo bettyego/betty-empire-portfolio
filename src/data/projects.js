@@ -198,6 +198,17 @@ export const projects = [
     tech: ['React', 'Vite', 'Tailwind CSS'],
     mobile: true,
   },
+  {
+    slug: 'mmascakes',
+    name: 'MMA’s Cakes & Pastries',
+    url: 'https://mmas-cakes-and-pastries.vercel.app/',
+    category: 'Events & Food',
+    description:
+      'A premium, responsive bakery website for MMA’s Cakes and Pastries, featuring an interactive product catalogue, product filtering, shopping cart, custom cake enquiry form, image gallery and WhatsApp ordering experience.',
+    caption: 'Freshly Baked with Love ♡',
+    tech: ['React', 'Vite', 'JavaScript', 'Tailwind CSS'],
+    mobile: true,
+  },
 ];
 
 // ── Derived data (no need to edit below) ────────────────────────

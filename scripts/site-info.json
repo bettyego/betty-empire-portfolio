@@ -510,5 +510,53 @@
       "next": false,
       "tailwind": true
     }
+  },
+  "mmascakes": {
+    "title": "MMA's Cakes and Pastries | Freshly Baked with Love in Abuja",
+    "description": "MMA's Cakes and Pastries, Abuja — custom celebration cakes, cupcakes, meat pies, pastries, doughnuts, puff-puff and small chops. Freshly baked with love. Order easily on WhatsApp: 0704 298 7239 or 0701 740 5551.",
+    "h1": [
+      "Freshly Baked\nwith Love ♡"
+    ],
+    "h2": [
+      "Every bake made\nwith love & care",
+      "Sweet, savoury\n& simply irresistible",
+      "Your celebration,\nbeautifully baked",
+      "Made the way\nbaking should be",
+      "A feast\nfor the eyes",
+      "Let’s make something\nsweet together",
+      "EXPLORE",
+      "OUR TREATS",
+      "CALL OR WHATSAPP"
+    ],
+    "h3": [
+      "Birthday Celebration Cake",
+      "Floral Tiered Cake",
+      "Chocolate Drip Cake",
+      "Pastel Drip Cake",
+      "Red Velvet Cupcakes",
+      "Chocolate Swirl Cupcakes",
+      "Vanilla Sprinkle Cupcakes",
+      "Assorted Cupcake Box"
+    ],
+    "nav": [
+      "MMA’s\nCAKES & PASTRIES",
+      "HOME",
+      "ABOUT US",
+      "OUR MENU",
+      "CUSTOM CAKES",
+      "GALLERY",
+      "CONTACT",
+      "Home",
+      "About Us",
+      "Our Menu",
+      "Custom Cakes",
+      "Gallery"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
   }
 }
