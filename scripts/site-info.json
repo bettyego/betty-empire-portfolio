@@ -1,0 +1,514 @@
+{
+  "slaywjoy": {
+    "title": "SLAY WITH JOY | Nigerian Fashion, Made to Turn Heads",
+    "description": "Meet your next favourite fit. Shop Nigerian fashion, made to turn heads. Shop SLAY WITH JOY.",
+    "h1": [
+      "Dress like\nyou mean it."
+    ],
+    "h2": [
+      "The joy edit.",
+      "Wear what makes you feel like you.",
+      "Joy looks good on you.",
+      "Your bag (0)"
+    ],
+    "h3": [],
+    "nav": [
+      "Shop all",
+      "Dresses",
+      "Sets",
+      "Our story",
+      "SLAY WITH JOY\nMADE FOR YOUR MOMENT"
+    ],
+    "tech": {
+      "react": false,
+      "vite": false,
+      "next": false,
+      "tailwind": false
+    }
+  },
+  "josesound": {
+    "title": "Jocci Sound Engineering — Premium Sound for Every Event",
+    "description": "Jocci Sound Engineering - Premium sound experience for weddings, concerts, church programs, parties and corporate events. Sound rentals, live engineering and audio installations.",
+    "h1": [
+      "PREMIUM SOUND EXPERIENCE\nFOR EVERY EVENT."
+    ],
+    "h2": [
+      "SOUND THAT MOVES PEOPLE.",
+      "PREMIUM AUDIO. END TO END.",
+      "BUILT FOR THE MOMENTS THAT MATTER.",
+      "SOUND STORIES CAPTURED.",
+      "WHAT OUR CLIENTS SAY.",
+      "LET'S MAKE YOUR NEXT EVENT UNFORGETTABLE."
+    ],
+    "h3": [
+      "EVENT SOUND SETUP",
+      "EQUIPMENT RENTAL",
+      "LIVE SOUND ENGINEERING",
+      "AUDIO SYSTEM INSTALLATION",
+      "RELIABLE EQUIPMENT",
+      "PREMIUM QUALITY",
+      "EXPERIENCED TEAM",
+      "FAST TURNAROUND"
+    ],
+    "nav": [
+      "HOME",
+      "ABOUT",
+      "SERVICES",
+      "GALLERY",
+      "BOOK",
+      "CONTACT"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "abujanest": {
+    "title": "ABUJA NEST | Shortlet & Apartments",
+    "description": "Premium furnished shortlet apartments in Gwarinpa, Abuja. Explore Abuja Nest apartments, pricing, and booking inquiries for comfortable longer stays.",
+    "h1": [
+      "ABUJA NEST"
+    ],
+    "h2": [
+      "A welcoming place to settle into Abuja.",
+      "Choose the space that fits your stay",
+      "Premium essentials for easy stays",
+      "Comfort that supports the way you stay",
+      "A refined setting for longer stays",
+      "Stay in Gwarinpa, Abuja",
+      "A comfortable base for your next Abuja stay.",
+      "One Bedroom",
+      "Request your stay",
+      "Let’s plan a comfortable stay in Abuja"
+    ],
+    "h3": [
+      "One Bedroom",
+      "Two Bedroom",
+      "Three Bedroom",
+      "Comfort",
+      "Privacy",
+      "Convenience",
+      "Security",
+      "Reliable electricity"
+    ],
+    "nav": [],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "giwagate": {
+    "title": "Giwagate Properties Limited | Building Value, Creating Wealth.",
+    "description": "Giwagate Properties Limited is an integrated real estate and property solutions company in Abuja, Nigeria: property acquisition and sales, development, construction, renovation, property management, valuation and procurement.",
+    "h1": [
+      "Property With Purpose. Investment With Vision."
+    ],
+    "h2": [
+      "Property Is More Than an Asset. It Is a Foundation for the Future.",
+      "What Can We Help You Achieve?",
+      "A property partner for the long term.",
+      "From first conversation to lasting support.",
+      "Property Decisions Require Confidence.",
+      "What our clients say.",
+      "Let’s Talk Property.",
+      "EXPLORE",
+      "SERVICES",
+      "CONTACT"
+    ],
+    "h3": [
+      "I Want to Buy Property",
+      "I Want to Sell Property",
+      "I Want to Invest",
+      "I Want to Build",
+      "I Want to Renovate",
+      "I Need Property Management",
+      "I Need Property Valuation",
+      "Not sure where to start?"
+    ],
+    "nav": [
+      "About",
+      "Properties",
+      "Services",
+      "Developments",
+      "Investment",
+      "Projects",
+      "Contact",
+      "Home",
+      "About",
+      "Properties",
+      "Services",
+      "Developments"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": false
+    }
+  },
+  "pinchofluxe": {
+    "title": "Pinch of Luxe Events | Professional Event Planning & Luxury Decorations",
+    "description": "Transform your special events with Pinch of Luxe Events' professional balloon decorations, floral design, and comprehensive event planning services. Weddings, corporate events, birthdays & more.",
+    "h1": [
+      "Exceptional Events, Extraordinary Experiences"
+    ],
+    "h2": [
+      "Why Choose Us?",
+      "Let’s Bring Your Vision to Life"
+    ],
+    "h3": [
+      "Grand Entrance Designs",
+      "Elegant Wedding Décor",
+      "Corporate Event Excellence",
+      "Luxury Wedding Backdrops",
+      "Statement Pieces & Displays",
+      "Premium Wedding Styling",
+      "Pinch of Luxe Events"
+    ],
+    "nav": [
+      "Home",
+      "About Us",
+      "Inquiry",
+      "Gallery",
+      "Reviews",
+      "Contact"
+    ],
+    "tech": {
+      "react": true,
+      "vite": false,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "eddamass": {
+    "title": "Edda Mass Transportation - Your Journey Begins Here",
+    "description": "",
+    "h1": [
+      "Travel Across Nigeria Safely"
+    ],
+    "h2": [
+      "Popular Routes",
+      "Why Choose Edda Mass Transportation?"
+    ],
+    "h3": [
+      "Book Your Journey",
+      "Lagos",
+      "Abuja",
+      "Enugu",
+      "Onitsha",
+      "Nationwide Coverage",
+      "Safe & Secure",
+      "24/7 Support"
+    ],
+    "nav": [
+      "Edda Mass Transportation\nYour Journey Begins Here",
+      "Home",
+      "Routes",
+      "Services",
+      "Book Now",
+      "About",
+      "Contact"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "phoneten": {
+    "title": "Chibyk - Modern Smartphone Store | Latest Phones & Best Deals",
+    "description": "Chibyk - Your trusted partner for the latest smartphones. Find the perfect phone with cutting-edge technology, amazing cameras, and unbeatable prices.",
+    "h1": [
+      "Flagship Devices"
+    ],
+    "h2": [
+      "Find Your Perfect Smartphone",
+      "Featured Products",
+      "Chibyk"
+    ],
+    "h3": [
+      "iPhone 13 Pro",
+      "Samsung Galaxy S21",
+      "Google Pixel 6",
+      "OnePlus 9 Pro",
+      "Xiaomi Mi 11 Ultra",
+      "Sony Xperia 1 II",
+      "Samsung Galaxy Z Fold 3",
+      "Oppo Find X3 Pro"
+    ],
+    "nav": [
+      "Home",
+      "About",
+      "Contact"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "richmark": {
+    "title": "Home - Richmark Humanitarian Foundation",
+    "description": "Richmark Humanitarian Foundation empowers Nigerian communities through health, education, human rights, and sustainable development initiatives. Join us in making a difference.",
+    "h1": [
+      "Protecting Human Rights.\n.",
+      "Richmark Foundation: Our Areas of Impact"
+    ],
+    "h2": [
+      "Healing Hands & Healthy Communities",
+      "Unlocking Potential",
+      "The Gift of Life",
+      "Dignity Defended",
+      "Building Livelihoods",
+      "Foundations for Tomorrow",
+      "Our Work in Action",
+      "Ready to Make a Difference?",
+      "Featured Updates"
+    ],
+    "h3": [
+      "Health Outreach Program",
+      "Education Initiative",
+      "Community Empowerment",
+      "Infrastructure Development",
+      "Emergency Relief",
+      "Health Initiatives Making a Difference",
+      "Empowering Communities Through Education",
+      "Volunteer Spotlight: Stories of Change"
+    ],
+    "nav": [
+      "Richmark Humanitarian Foundation",
+      "Home",
+      "About",
+      "Focus Areas",
+      "Donate",
+      "Contact",
+      "Newsletter"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "bettycatery": {
+    "title": "Lady B's Catering Service - Luxury Catering Services | Premium Cuisine & Exceptional Service",
+    "description": "Lady B's Catering Service provides exquisite luxury catering for corporate events, weddings, private parties, and special occasions. Premium cuisine, impeccable service, and unforgettable experiences.",
+    "h1": [
+      "Exceptional Catering for\nMemorable Events"
+    ],
+    "h2": [
+      "Why Choose Lady B's Catering Service?",
+      "Our Signature Menu",
+      "Our Catering Services",
+      "What Our Clients Say",
+      "Ready to Create Your Perfect Event?"
+    ],
+    "h3": [
+      "Why Choose Lady B's?",
+      "Premium Quality",
+      "Timely Service",
+      "Food Safety",
+      "Custom Menus",
+      "Professional Staff",
+      "Event Excellence",
+      "Mini Caprese Skewers"
+    ],
+    "nav": [
+      "Lady B's Catering Service",
+      "Home",
+      "Menu",
+      "Services",
+      "Gallery",
+      "About",
+      "Contact"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "elcee": {
+    "title": "Elcee_stores",
+    "description": "",
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "nav": [],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": false
+    }
+  },
+  "bluoak": {
+    "title": "Vite + React",
+    "description": "",
+    "h1": [
+      "Banking Reimagined"
+    ],
+    "h2": [
+      "Why Choose BlueOak?",
+      "Ready to Get Started?"
+    ],
+    "h3": [
+      "Account Balance",
+      "Recent Transaction",
+      "Savings Goal",
+      "Secure Banking",
+      "Mobile Banking",
+      "Investment Tools",
+      "Digital Cards",
+      "24/7 Support"
+    ],
+    "nav": [
+      "BlueOak Bank",
+      "Home",
+      "About",
+      "Contact",
+      "Login",
+      "Register"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "pinebridge": {
+    "title": "pinebridge",
+    "description": "",
+    "h1": [
+      "PineBridge Investments is a private,\nglobal asset manager focused on active, high-conviction investing.",
+      "Investment Team",
+      "PineBridge News",
+      "Recent Insights"
+    ],
+    "h2": [
+      "Our Capabilities",
+      "Unique Heritage",
+      "Portfolio Risk Management",
+      "Investment Plans",
+      "Bloomberg: Anders Faergemann shares his outlook for Emerging Markets",
+      "Bloomberg UK: Anders Faergemann discusses Indian Sovereign bonds",
+      "Yahoo Finance: Hani Redha shares insights on Q3 earnings",
+      "Bloomberg: Anders Faergemann on Emerging Market Debt",
+      "Bloomberg: Tadashi Matsukawa discusses Japanese fixed income",
+      "CNBC TV: Tadashi Matsukawa shares his insight on Japanese bonds",
+      "How Capital Efficiency Drives Relative Value in Global Fixed Income",
+      "Investment Strategy Insights: How Trump 2.0’s Tariff Policy Could Reshape the Corporate Landscape"
+    ],
+    "h3": [
+      "Multi-Asset",
+      "Fixed Income",
+      "Equities",
+      "Alternatives",
+      "A Heritage of Active, High-Conviction Investing",
+      "Delivering Results Across the Investment Spectrum",
+      "A Collaborative Spirit",
+      "Who We Are"
+    ],
+    "nav": [],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "mmasstore": {
+    "title": "Mma’s Store",
+    "description": "",
+    "h1": [
+      "Discover Your Style"
+    ],
+    "h2": [],
+    "h3": [
+      "About Us",
+      "Quick Links",
+      "Newsletter",
+      "Follow Us"
+    ],
+    "nav": [
+      "Products",
+      "Cart",
+      "Payment",
+      "Login/Register"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  },
+  "bettywork": {
+    "title": "Vite + React",
+    "description": "",
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "nav": [
+      "Blog",
+      "Pricing",
+      "Login",
+      "Sign Up"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": false
+    }
+  },
+  "queensspace": {
+    "title": "Queens Space Abuja",
+    "description": "Queens Space Abuja is a vibrant community dedicated to connection, wellness, and purposeful living.",
+    "h1": [
+      "Where Sisterhood Becomes Family."
+    ],
+    "h2": [
+      "Real moments from our sisterhood",
+      "A space for healing, growth, and joy.",
+      "Intention, rest, and real connection.",
+      "Events that help you reconnect to joy.",
+      "Memories from the sisterhood"
+    ],
+    "h3": [
+      "Real support",
+      "Intentional growth",
+      "Beautiful memories",
+      "Boss Lady Monday 💼💰",
+      "Girl Talk Tuesday 💕",
+      "Growth & Wellness Wednesday 🌱",
+      "Soft Life Thursday 🧴✨",
+      "Freaky Friday ❤️‍🔥"
+    ],
+    "nav": [
+      "Home",
+      "About Us",
+      "Our Weekly Vibe",
+      "Events",
+      "Memories Gallery",
+      "Join the Sisterhood",
+      "FAQ",
+      "Contact"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
+  }
+}
