@@ -558,5 +558,46 @@
       "next": false,
       "tailwind": true
     }
+  },
+  "fetiscofem": {
+    "title": "FETISCOFEM Engineering Services | Electrical Engineering, Power & Installation",
+    "description": "FETISCOFEM Engineering Services: domestic and commercial electrical installation, wiring, power solutions and quality electrical materials and supplies.",
+    "h1": [
+      "POWERING SPACES.\nCONNECTING\nPOSSIBILITIES."
+    ],
+    "h2": [
+      "Engineering Power. Building Confidence.",
+      "What We Do",
+      "Built Around Reliability. Driven by Excellence.",
+      "Projects That Power Everyday Spaces",
+      "Quality Electrical Materials. Reliable Supply.",
+      "Planning an Electrical Project? Let’s Make It Happen."
+    ],
+    "h3": [
+      "Domestic Electrical Installation",
+      "Commercial Electrical Installation",
+      "Electrical Wiring & Distribution",
+      "Power Solutions",
+      "Electrical Materials & Supplies",
+      "Electrical Maintenance & Support",
+      "Professional Approach",
+      "Safety-Conscious Solutions"
+    ],
+    "nav": [
+      "FETISCOFEM\nENGINEERING SERVICES",
+      "Home",
+      "About Us",
+      "Services",
+      "Projects",
+      "Products",
+      "Contact",
+      "Request a Quote"
+    ],
+    "tech": {
+      "react": true,
+      "vite": true,
+      "next": false,
+      "tailwind": true
+    }
   }
 }

@@ -209,6 +209,17 @@ export const projects = [
     tech: ['React', 'Vite', 'JavaScript', 'Tailwind CSS'],
     mobile: true,
   },
+  {
+    slug: 'fetiscofem',
+    name: 'FETISCOFEM Engineering Services',
+    url: 'https://fetiscofem.vercel.app/',
+    category: 'Engineering & Corporate',
+    description:
+      'A professional corporate website for FETISCOFEM Engineering Services, presenting its domestic and commercial electrical installation, wiring, power solutions and electrical supplies — with projects, a products range and quote requests that establish a confident online presence.',
+    caption: 'Powering Spaces. Connecting Possibilities.',
+    tech: ['React', 'Vite', 'Tailwind CSS'],
+    mobile: true,
+  },
 ];
 
 // ── Derived data (no need to edit below) ────────────────────────

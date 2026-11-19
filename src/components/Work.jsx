@@ -47,8 +47,8 @@ export default function Work() {
             </h2>
           </div>
           <p className="reveal max-w-md text-[0.98rem] leading-relaxed text-muted lg:col-span-5 lg:justify-self-end">
-            Sixteen live websites designed and built for real businesses, brands and ideas — from luxury e-commerce
-            and real estate to banking, hospitality and personal brands. Click any preview to explore the live site.
+            Eighteen live websites designed and built for real businesses, brands and ideas — from luxury e-commerce
+            and real estate to banking, engineering, hospitality and personal brands. Click any preview to explore the live site.
           </p>
         </div>
 
